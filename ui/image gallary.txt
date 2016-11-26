@@ -1,0 +1,89 @@
+<html>
+<head>
+<style type="text/css">
+div.img
+  {
+  margin:2px;
+  border:1px solid #0000ff;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+div.img img
+  {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+  }
+div.img a:hover img
+  {
+  border:1px solid #0000ff;
+  }
+div.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:2px;
+  }
+</style>
+</head>
+<body>
+
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="rooms.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR LABO</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis2_big.htm">
+  <img src="m1.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR HOSPITAL</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis3_big.htm">
+  <img src="hos.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR ICU</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis4_big.htm">
+  <img src="can.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR CATEFERIA</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="food.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR OFFERS</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="scan.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR SCAN</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="corr.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR CORRIDOR</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="sss.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR SPECIAL ROOMS</div>
+</div>
+<div class="img">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="rr.jpg" alt="Klematis" width="110" height="90" />
+  </a>
+  <div class="desc">OUR TECHS</div>
+</div>
+</body>
+</html> 
